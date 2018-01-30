@@ -1,5 +1,5 @@
-#ifndef _BITCOIN_H_
-#define _BITCOIN_H_ 1
+#ifndef _IOP_H_
+#define _IOP_H_ 1
 
 #include "protocol.h"
 
